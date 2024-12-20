@@ -27,5 +27,7 @@
 ## Certifications
 <div>
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Cisco Introduction to Networks%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://github.com/cristian119/cristian119/raw/main/introductiontonetworks.pdf">
+    <img src="https://img.shields.io/badge/-Cisco_Introduction_to_Networks-007ACC?&style=for-the-badge&logo=Cisco&logoColor=white" />
+</a>
 </div>
