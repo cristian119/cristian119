@@ -23,7 +23,7 @@
   </a>
 
   <!-- SC-300 Certification -->
-  <a href="https://learn.microsoft.com/en-us/certifications/exams/sc-300" target="_blank">
+  <a href="https://github.com/cristian119/cristian119/blob/main/Sc-300.pdf" target="_blank">
     <img src="https://img.shields.io/badge/-SC--300_Azure_Identity_and_Access_Administrator-7FBA00?style=for-the-badge" alt="SC-300 Certification">
   </a>
 
