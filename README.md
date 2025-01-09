@@ -14,21 +14,23 @@
 ### Virtual Private Network
 - [VPN Setup in Virtual Machine](#)
 
-## Skills and Tools
-
-| **Skill**                                    | **Associated Project**         |
-|----------------------------------------------|---------------------------------|
-| SIEM Implementation and Log Analysis         | [Detection Lab](#)             |
-| Network Traffic Monitoring and Attack Detection | [Detection Lab](#)            |
-| Security Automation with Shuffle SOAR        | [SOC Automation Lab](#)        |
-| Incident Response Planning and Execution     | [SOC Automation Lab](#)        |
-
-
 ## Certifications
-<div>
-    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<a href="https://github.com/cristian119/cristian119/blob/main/introductiontonetworks.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/-Cisco_Introduction_to_Networks-007ACC?&style=for-the-badge&logo=Cisco&logoColor=white" />
-</a>
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
 
+  <!-- Cisco Introduction to Networks Certification -->
+  <a href="https://github.com/cristian119/cristian119/blob/main/introductiontonetworks.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/-Cisco_Introduction_to_Networks-007ACC?style=for-the-badge" alt="Cisco Introduction to Networks Certification">
+  </a>
+
+  <!-- SC-300 Certification -->
+  <a href="https://learn.microsoft.com/en-us/certifications/exams/sc-300" target="_blank">
+    <img src="https://img.shields.io/badge/-SC--300_Azure_Identity_and_Access_Administrator-7FBA00?style=for-the-badge" alt="SC-300 Certification">
+  </a>
+
+  <!-- CyberArk PAM Defender Certification -->
+  <a href="https://www.cyberark.com/services/education/certification/pam-defender/" target="_blank">
+    <img src="https://img.shields.io/badge/-CyberArk_PAM_Defender-4AC7F4?style=for-the-badge" alt="CyberArk PAM Defender Certification">
+  </a>
 </div>
+
+
