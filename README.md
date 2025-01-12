@@ -28,7 +28,7 @@
   </a>
 
   <!-- CyberArk PAM Defender Certification -->
-  <a href="https://www.cyberark.com/services/education/certification/pam-defender/" target="_blank">
+  <a href="https://github.com/cristian119/cristian119/blob/main/CyberArk PAM Defender.pdf" target="_blank">
     <img src="https://img.shields.io/badge/-CyberArk_PAM_Defender-4AC7F4?style=for-the-badge" alt="CyberArk PAM Defender Certification">
   </a>
 </div>
