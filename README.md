@@ -3,16 +3,16 @@
 ## 💻 Information Technology Projects 💻
 
 ### osTicket: Creating a Ticketing System for Help Desk
-- [osTicket: Prerequisites and Installation](#)
-- [osTicket: Post-Installation Configuration](#)
-- [osTicket: Ticket Lifecycle Examples](#)
+- [osTicket: Prerequisites and Installation](https://github.com/cristian119/osticket-prerequisite)
+- [osTicket: Post-Installation Configuration](https://github.com/cristian119/post-installation)
+- [osTicket: Ticket Lifecycle Examples](https://github.com/cristian119/ticket-lifecycle)
 
 ### Microsoft Azure
 - [Setting Up Active Directory using Azure VMs](https://github.com/cristian119/configure-ad)
 - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/cristian119/azure-network-protocols)
 
 ### Virtual Private Network
-- [VPN Setup in Virtual Machine](#)
+- [VPN Setup in Virtual Machine](https://github.com/cristian119/Setting-a-VPN)
 
 ## Certifications
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
